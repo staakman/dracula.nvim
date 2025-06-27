@@ -39,12 +39,12 @@ Install via package manager
 
 ```lua
 -- Using Packer:
-use 'Mofiqul/dracula.nvim'
+use 'staakman/dracula.nvim'
 ```
 
 ```vim
 " Using Vim-Plug:
-Plug 'Mofiqul/dracula.nvim'
+Plug 'staakman/dracula.nvim'
 ```
 
 ## 🚀 Usage
@@ -81,7 +81,7 @@ If you are using [LazyVim](https://github.com/LazyVim/LazyVim), you can add this
 ```lua
 return {
   -- add dracula
-  { "Mofiqul/dracula.nvim" },
+  { "staakman/dracula.nvim" },
 
   -- Configure LazyVim to load dracula
   {
